@@ -1,0 +1,29 @@
+{
+  "name": "fastClick",
+  "title": "jquery.fastClick",
+  "description": "Removes the delay between tapping to the click event being sent on iphone and possibly other devices. Useful for apps that need to feel responsive.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ahultgren/jquery.fastClick",
+  "author": {
+    "name": "Andreas Hultgren",
+    "email": "me@andreashultgren.se",
+    "url": "http://andreashultgren.se"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahultgren/jquery.fastClick.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ahultgren/jquery.fastClick/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/ahultgren/jquery.fastClick/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">= 1.6"
+  },
+  "keywords": []
+}
